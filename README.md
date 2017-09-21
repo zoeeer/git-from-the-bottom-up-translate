@@ -22,11 +22,11 @@ by: John Wiegley
  - [3.1 索引：见一见中间人](3.the-index.md#3-1-meet-the-middle-man)
  - [3.2 进一步认识索引](3.the-index.md#3-2-taking-the-index-further)
 
-[4. 重置（reset）]
- - 4.1 重置，还是毁灭？
- - 4.2 混合重置
- - 4.3 软重置
- - 4.4 硬重置
+[4. 重置（reset）](4.reset.md)
+ - [4.1 重置，还是毁灭？](4.reset.md#4-1-to-reset-or-not-to-reset)
+ - [4.2 混合重置](4.reset.md#4-2-doing-a-mixed-reset)
+ - [4.3 软重置](4.reset.md#4-3-doing-a-soft-reset)
+ - [4.4 硬重置](4.reset.md#4-4-doing-a-hard-reset)
 
 [5. 储藏，以及引用日志]
 
