@@ -6,7 +6,7 @@ by: John Wiegley
 
 原文链接: [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
 
-1. 引言
+1. [引言](1.intro.md)
 
 2. 代码仓库（repository）
  - 2.1 代码仓库：目录内容追踪
