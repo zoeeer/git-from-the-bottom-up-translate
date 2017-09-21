@@ -28,8 +28,8 @@ by: John Wiegley
  - [4.3 软重置](4.reset.md#4-3-doing-a-soft-reset)
  - [4.4 硬重置](4.reset.md#4-4-doing-a-hard-reset)
 
-[5. 储藏，以及引用日志]
+[5. 储藏(stash)与引用日志(reflog)](5.stashing-and-the-reflog.md)
 
-[6. 总结]
+[6. 总结](6.conclusion.md)
 
-[7. 延伸阅读]
+[7. 延伸阅读](7.further-reading.md)
